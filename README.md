@@ -6,7 +6,7 @@ Game made using Haskell for the subject PD (programación dinámica/dynamic prog
   -Modules needed (use command "cabal install" with each module as follows:
       array, data-default , codeworld-api
  
-# Gameplay:
+# Gameplay
  To start playing just load main.hs and call the function main. If you want to compile the program write "ghc main.hs -o nombreEjecutable -threaded" in a terminal where the files are located.
  
  Controls: "wasd" keys for movement; arrow keys for aiming and shooting. 
