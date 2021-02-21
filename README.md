@@ -7,7 +7,8 @@ Game made using Haskell for the subject PD (programación dinámica/dynamic prog
       array, data-default , codeworld-api
  
 # Gameplay
- To start playing just load main.hs and call the function main. If you want to compile the program write "ghc main.hs -o nombreEjecutable -threaded" in a terminal where the files are located.
+ To start playing just load main.hs and call the function main. 
+ If you want to compile the program write "ghc main.hs -o executableName -threaded" in a terminal where the files are located.
  
  Controls: "wasd" keys for movement; arrow keys for aiming and shooting. 
  
