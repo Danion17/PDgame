@@ -1,5 +1,5 @@
 # PDgame
-Game made using Haskell for the subject PD (programación dinámica/dynamic programming) at Computer Science / Ingeniería Informática,Tecnologías informáticas degree at Seville University   together with _____.
+Game made using Haskell for the subject PD (programación dinámica/dynamic programming) at Computer Science / Ingeniería Informática,Tecnologías informáticas degree at Seville University   together with https://github.com/Edugonzaper.
 
 # Requirements 
   -Haskell v8.6.5
